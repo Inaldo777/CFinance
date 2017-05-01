@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CFinance</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="title_activity_validador">ValidadorActivity</string>
+    <string name="botao_logar">Logar</string>
+    <string name="texto_cadastre">Não tem conta? Cadastre-se</string>
+    <string name="title_activity_cadastro_usuario">CadastroUsuarioActivity</string>
+    <string name="text_VisaoGeral" />
+    <string name="text_VisaGeral">Visão Geral</string>
+    <string name="salvarConta">Salvar</string>
+    <string name="botaoSalvar">Salvar</string>
+    <string name="cadastroConta">Cadastro de Conta</string>
+    <string name="cadastroCT">Cadastrar</string>
+</resources>

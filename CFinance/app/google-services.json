@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "984069621413",
+    "firebase_url": "https://cfinance-79821.firebaseio.com",
+    "project_id": "cfinance-79821",
+    "storage_bucket": "cfinance-79821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984069621413:android:2c970e62b3fc9be4",
+        "android_client_info": {
+          "package_name": "com.example.inaldojunior.cfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984069621413-e5ddlojrjp6e94l031k4p3jefka4btum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inaldojunior.cfinance",
+            "certificate_hash": "f6fe4da421b67543d716477877de376925ed4478"
+          }
+        },
+        {
+          "client_id": "984069621413-6aqrtrqpg3hpvcoqdgbisd7fno38offc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQ6dv9yAGHgiGf8gYRS_HcPliD7agclE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984069621413-6aqrtrqpg3hpvcoqdgbisd7fno38offc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
